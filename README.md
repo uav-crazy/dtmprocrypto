@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @dtmprocrypto
 - 👀 I’m interested in mechanical engineering, 3D modeling, 3D Printing, Programming, networks, server, building computers, competitive gaming, and sound systems
 - 🌱 I’m currently learning: Python, and CSS
 - 📫 How to reach me: dtmpro621@gmail.com
